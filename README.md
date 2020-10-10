@@ -13,3 +13,5 @@
 
 ### Have Fun! 
 
+![Pig Game](src/img/pig-game-winner.png)
+
