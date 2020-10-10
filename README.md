@@ -12,6 +12,6 @@
 - The first player to reach 100 points on their GLOBAL score wins the game!
 
 ### Have Fun! 
-
+![Pig Game](src/img/pig-game-play.png)
 ![Pig Game](src/img/pig-game-winner.png)
 
